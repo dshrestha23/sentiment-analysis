@@ -5,6 +5,10 @@ import re
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 # Load the pre-trained model
 with open("models/model_lg.pkl", "rb") as file:
     model = pickle.load(file)
