@@ -25,7 +25,7 @@ def preprocess_text(text):
 
 # App title and description
 st.markdown(
-    "<h1 style='text-align: center; color: #4CAF50;'>🌟 Twitter(X) Sentiment Analysis 🌟</h1>",
+    "<h1 style='text-align: center; color: #1E90FF'>🌟 Twitter Sentiment Analysis 🌟</h1>",
     unsafe_allow_html=True,
 )
 st.markdown(
