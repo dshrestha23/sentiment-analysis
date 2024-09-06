@@ -11,7 +11,7 @@ This is a simple web app that uses a **Logistic Regression** model to analyze th
 
 ## Demo
 
-You can try out the app [here (deploy on Streamlit Cloud or other platform if needed)](https://share.streamlit.io/your-app).
+You can try out the app [https://sentiment-analysis-x.streamlit.app/]([https://share.streamlit.io/your-app](https://sentiment-analysis-x.streamlit.app/)).
 
 ## How It Works
 
